@@ -8,6 +8,8 @@ public class Practiceselenium {
 
 	public static void main(String[] args) {
 		
+		//Selenium 4 - new options
+		
 		// 3. for next upcoming version 
 		ChromeOptions chromeOptions = new ChromeOptions ();
 		chromeOptions.setBrowserVersion("118");
